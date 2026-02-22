@@ -1,4 +1,4 @@
-Aim: Create a VPC and two EC2 with user data
+Aim: Create a VPC and two EC2 with user data by using terraform 
 
 #Files Used 
 -provider.tf
